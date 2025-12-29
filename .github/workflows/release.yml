@@ -15,4 +15,3 @@ jobs:
     uses: tree-sitter/workflows/.github/workflows/release.yml@main
     with:
       generate: true
-      attestations: true
